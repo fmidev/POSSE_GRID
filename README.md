@@ -18,7 +18,7 @@ The current location for these in teho is `/lustre/apps/lapsrut/POSSE_GRID/`.
 
 ## Gridding by R code
 
-The actual gridding (i.e. interpolation to a regular grid) of point station observations is done by R packages `fastgrid` and `MOSfieldutils`. Fastgrid is in github as https://www.github.com/mjlaine/fastgrid . The master R script is `code/MOStoECgrid_NC.R`.
+The actual gridding (i.e. interpolation to a regular grid) of point station observations is done by R packages [`fastgrid`](https://www.github.com/mjlaine/fastgrid) and [`MOSfieldutils`](https://github.com/fmidev/MOSfieldutils). The master R script is [`code/MOStoECgrid_NC.R`](code/MOStoECgrid_NC.R).
 
 ## authors
 
